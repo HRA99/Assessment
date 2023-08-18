@@ -3,19 +3,20 @@ public class Dog{
    
    breed();
    
-   int age;
-   String color;
+   private int age;
+   private String color;
+   
+   public void barking(){
    }
    
-   void barking(){
+   public void hungry(){
    }
-   
-   void hungry(){
+
+   public void sleeping(){
    }
-   
-   
-   void sleeping(){
-   }
-   
+
+
+   }   
+
 
 }
